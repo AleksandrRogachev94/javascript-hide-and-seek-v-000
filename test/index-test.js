@@ -1,3 +1,5 @@
+"use strict";
+
 describe('index', () => {
   describe('getFirstSelector(selector)', () => {
     it('returns the first element that matches the selector', () => {
